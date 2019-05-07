@@ -1,0 +1,61 @@
+
+.parent { 
+    /* position: relative;
+    width: 100%;  */
+}
+
+.card-container { 
+ 
+    display: flex;
+    margin: auto;
+    /* flex-wrap: wrap;  */
+    /* flex-flow: row wrap; */
+    /* margin: 'auto';  */
+    /* padding-top: 20px;
+    padding-bottom: 20px;  */
+    flex-wrap: wrap;
+    
+}
+
+.card-class { 
+    flex-grow: 1;
+    /* margin: auto; */
+
+    /* flex: inherit; */
+
+     
+     width: 400px;
+     margin: 30px;  
+
+}
+
+.hidden { 
+    visibility: hidden;
+}
+
+.visible { 
+    visibility: visible;
+}
+
+.projHeader { 
+    padding: .01%; 
+    padding-left: 20px;
+    background: #ECE9E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ECE9E6,#FFFFFF );  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ECE9E6,#FFFFFF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.1), 0 3px 10px 0 rgba(0, 0, 0, 0.15);
+}
+
+container-java h1 { 
+    font-family: 'Roboto', sans-serif;
+    font-size: 5px;
+
+    /* font-family: 'Gugi', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Anton', sans-serif;
+font-family: 'Oxygen', sans-serif;
+font-family: 'Oxygen Mono', monospace; */
+}
