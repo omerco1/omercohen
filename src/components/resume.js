@@ -26,8 +26,7 @@ class Resume extends Component {
             <div id="contactDetails" class="quickFade delayFour">
                 <button> Download pdf </button>
             </div>
-        <div class="cleare"></div>
-	</div>
+
 	
 	<div id="mainArea" class="quickFade delayFive">
 		<section>
