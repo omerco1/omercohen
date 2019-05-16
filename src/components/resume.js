@@ -12,7 +12,7 @@ class Resume extends Component {
         //         {/* <h2> Education </h2> */}
         //     </div> 
         // </div>
-    <div >
+    <div>
         <div class="mainDetails">
             <div id="headshot" class="quickFade">
                 <img src="headshot.jpg" alt="Alan Smith" />
@@ -27,7 +27,6 @@ class Resume extends Component {
                 <button> Download pdf </button>
             </div>
 
-	
 	<div id="mainArea" class="quickFade delayFive">
 		<section>
 			<article>
@@ -114,7 +113,8 @@ class Resume extends Component {
 		</section>
 		
 	</div>
-</div>
+    </div>
+    </div>
         ); 
     }
 
